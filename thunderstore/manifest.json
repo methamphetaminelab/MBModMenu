@@ -1,7 +1,7 @@
 {
   "name": "ModMenu",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/methamphetaminelab/ModMenu",
+  "website_url": "https://github.com/methamphetaminelab/MBModMenu",
   "description": "Edit the settings of every installed BepInEx mod in-game from a Mods button in the main menu and pause menu. Changes are saved right away and applied live when the mod supports it.",
   "dependencies": [
     "BepInEx-BepInExPack_IL2CPP-6.0.788"
